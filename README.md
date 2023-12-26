@@ -1,2 +1,2 @@
 # Cloud-Computing
-Cloud Computing Certificates coming soon #CloudComputing
+Cloud Computing repository for certificates coming soon!
